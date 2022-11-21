@@ -1,0 +1,76 @@
+h1{
+  color: aliceblue;
+}
+
+h2{
+  text-shadow: black 0.1em 0.1em 0.2em;
+  color: aliceblue;
+  font-size: 50px;
+  padding: 3% 0 5% 0;
+}
+
+h3{
+  color: black;
+  text-align: center;
+  padding: 10px 0;
+}
+
+h4{
+  padding: 0 0 20px 0;
+}
+
+.sobre{
+  text-align: center ;
+  padding: 5% 20% 15% 20%;
+  margin: 30px;
+}
+ 
+.sobre p {
+   text-align: top;
+}
+
+.sobre Img{
+  border-radius: 50%;
+  align-items: center;
+  height:auto;
+  width:auto;
+  max-width: 40%;
+  float: left;
+}
+
+.quemSomos{
+  color: black;
+  text-align: center;
+  padding: 2% 15%;
+  margin: 20px;
+}
+
+.quemSomos img{
+  border-radius: 50%;
+}
+
+
+.colaboradores{
+  color: black;
+  font-style: italic;
+  text-align: center;
+  color: rgb(65, 5, 5);
+  font-size: 30px;
+}
+
+.produto{
+  padding: 1%;
+  margin: 10px;
+}
+
+
+footer {
+  text-align: center;
+  background-color:#530016;
+  padding: 2%;
+}
+
+footer p {
+  color: cornsilk ;
+}
+
