@@ -2,4 +2,4 @@
 
 >Status do Projeto: Finalizado
 
-> HTML | CSS | Bootstrap
+> HTML | Bootstrap | CSS
