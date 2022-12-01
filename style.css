@@ -6,7 +6,7 @@ h2{
   text-shadow: black 0.1em 0.1em 0.2em;
   color: aliceblue;
   font-size: 50px;
-  padding: 3% 0 5% 0;
+  padding: 3%;
 }
 
 h3{
@@ -20,33 +20,32 @@ h4{
 }
 
 .sobre{
-  text-align: center ;
-  padding: 5% 20% 15% 20%;
-  margin: 30px;
+  text-align: center;
+  background-color: #f3f3f3;
 }
  
 .sobre p {
-   text-align: top;
+  margin: 0 20%;
+}
+
+p strong{
+  text-transform: uppercase;
 }
 
 .sobre Img{
-  border-radius: 50%;
-  align-items: center;
-  height:auto;
-  width:auto;
-  max-width: 40%;
-  float: left;
+  border-radius: 5%;
+  max-width: 70%;
 }
 
 .quemSomos{
   color: black;
   text-align: center;
-  padding: 2% 15%;
-  margin: 20px;
+  background: linear-gradient(#f3f3f3 , #888888);
 }
 
 .quemSomos img{
-  border-radius: 50%;
+  border-radius:50%;
+  max-width: 60%;
 }
 
 
@@ -59,14 +58,15 @@ h4{
 }
 
 .produto{
+  background-color: #888888;
   padding: 1%;
-  margin: 10px;
 }
 
 
 footer {
   text-align: center;
-  background-color:#530016;
+  text-align: center;
+  background: url("bg.jpg");
   padding: 2%;
 }
 
@@ -74,3 +74,4 @@ footer p {
   color: cornsilk ;
 }
 
+v
