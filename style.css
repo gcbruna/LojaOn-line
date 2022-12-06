@@ -21,11 +21,17 @@ h4{
 
 .sobre{
   text-align: center;
-  background-color: #f3f3f3;
 }
- 
+
+.sobre{
+  background: url("img/quem somos.png");
+  background-repeat: no-repeat;
+  background-size: 25%;
+}
+
 .sobre p {
-  margin: 0 20%;
+  margin: 0 20%;  
+  font-size: 110%;
 }
 
 p strong{
@@ -33,14 +39,13 @@ p strong{
 }
 
 .sobre Img{
-  border-radius: 5%;
-  max-width: 70%;
+
 }
 
 .quemSomos{
   color: black;
   text-align: center;
-  background: linear-gradient(#f3f3f3 , #888888);
+  background: linear-gradient(#ffffff , #a8a8a8);
 }
 
 .quemSomos img{
@@ -58,7 +63,7 @@ p strong{
 }
 
 .produto{
-  background-color: #888888;
+  background-color: #a8a8a8;
   padding: 1%;
 }
 
@@ -73,5 +78,3 @@ footer {
 footer p {
   color: cornsilk ;
 }
-
-v
