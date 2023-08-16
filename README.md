@@ -1,7 +1,7 @@
 # LojaOn-line
 
 ```
-Status do Projeto: Finalizado
+Status do Projeto: Construção
 ```
 
 > HTML | Bootstrap | CSS
